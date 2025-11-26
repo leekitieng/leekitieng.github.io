@@ -18,11 +18,15 @@ I am passionate about artificial intelligence because of its impact on our world
 
 Education
 ======
+
 [Macao Polytechnic University](https://www.mpu.edu.mo)
+------
 Bachelor of Science in Artificial Intelligence, 2025 - present
-- Member of English Debate Team
+- Member, English Debate Team '25 - present
+
 
 [Ateneo Senior High School](https://www.ateneo.edu/ashs)
+------
 Science, Technology, Engineering, and Mathematics (STEM), 2023 - 2025
 - Member, Girls' Basketball Team '23 - '25
 - Public Relations Officer, Silk Road '23 - '25
@@ -31,7 +35,9 @@ Science, Technology, Engineering, and Mathematics (STEM), 2023 - 2025
 - Rides Member, School Fair '24 - '25
 - Sponsorships Member, Batch Project Committee, '23 - '24
 
+
 [Grace Christian College](https://www.gcc.edu.ph/)
+------
 Junior High School and Elementary, 2013 - 2023
 
 
